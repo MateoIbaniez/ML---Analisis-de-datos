@@ -3,7 +3,7 @@ Trabajo Practico de Analisis de Datos. En este TP se analiza un data set de una 
 Dicho data set contiene informacion sobre ataques informaticos. En mi desarrollo se analiza esta informacion
 y ademas se crean 2 AI que predigan si la IP del atacante esta utilizando una vpn/proxy o por el contrario nada.
 
-La primera AI es un perceptron, el cual es un modelo bastante simple, pero se lo usa en una primera impresion.
+La primera AI es un perceptron, el cual es un modelo bastante simple, pero se lo usa para obtener una primera impresion.
 
 La segunda AI es una red neuronal, la cual tiene mayor complejidad que el perceptron y logra unas mejores metricas.
 Este modelo alcanzo el doceavo puesto en la competicion.
